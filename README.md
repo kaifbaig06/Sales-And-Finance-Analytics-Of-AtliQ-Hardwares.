@@ -18,8 +18,8 @@
 
 **Project Goals:**
 
-1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
-2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf).
+1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/kaifbaig06/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares./blob/main/P%20and%20L%20by%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/kaifbaig06/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares./blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf).
+2. **P&L Reports by Markets:** Generated P&L reports categorized by [markets](https://github.com/kaifbaig06/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares./blob/main/P%20and%20L%20by%20Market.pdf).
 
 **Finance Analytics Purpose:** Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
@@ -43,6 +43,6 @@
 - Optimizing report generation through meticulous fine-tuning.
 - Developing a systematic approach to creating report-building plans.
 
-Find the detailed project reports [here](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/tree/main).
+Find the detailed project reports [here](https://github.com/kaifbaig06/Sales-And-Finance-Analytics-Of-AtliQ-Hardwares.).
 
 Data tells a story—let’s decode it together! Share your insights, feedback, or ideas to make this project even better!
